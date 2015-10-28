@@ -20,9 +20,9 @@ body { background-color:#373A3D;}
 
 #pram { background:url(bg_menu_line.jpg) no-repeat center; width:10px;}
 
-#punkt a{ color:#000000; text-decoration:none; font-weight:bold;}
+#punkt a{ color:#fff; text-decoration:none; font-weight:bold;}
 
-#punkt a:hover{ text-decoration:underline;}
+#punkt a:hover{ text-decoration:underline; color:#000;}
 
 
 #blok1 { width:663px; height:168px; background:url(bg_profi_main.jpg)#532A0E repeat-x top;
@@ -36,3 +36,4 @@ body { background-color:#373A3D;}
 
 #blok2 h1{ color:#1D4B71; padding:30px 10px 0 20px;}
 #blok2 p{ color:#585858; font-size:12px; padding:5px 20px 0 20px; }
+
